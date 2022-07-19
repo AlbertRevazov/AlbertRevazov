@@ -16,17 +16,17 @@
 
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
+<!-- ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=MacOS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
+<!-- ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab) -->
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
-![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+<!-- ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery) -->
 ![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
@@ -34,6 +34,6 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+<!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
