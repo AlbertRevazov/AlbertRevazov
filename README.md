@@ -1,16 +1,39 @@
-### Hi there 👋
+### I spend my free time on
+![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
 
-<!--
-**AlbertRevazov/AlbertRevazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### and learn Typescript
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 
-Here are some ideas to get you started:
+<img width="350" alt="GIF" src="https://media2.giphy.com/media/L0aWDywDu1ziw/giphy.gif?cid=ecf05e47wnmt6lqd3dxm6tocvoz3umy3qp04qpnd4azzy0tm&rid=giphy.gif&ct=g"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+
+
+
+
+
+### Languages and Tools:
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=MacOS)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Npm](https://img.shields.io/badge/-Npm-000?&logo=Npm)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
