@@ -1,6 +1,11 @@
 <img width="1000" height="330" alt="img" src="./img/11.jpg"/>
 
-<img align="right" width="290" height="430" alt="GIF" src="https://media3.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e470xtz664v2w4cmj3uva2mdxoydcb6qw4z207qukgr&rid=giphy.gif&ct=g"/>
+### <p align="right" >
+Contact me:
+📲 +7 (989)-134-34-54
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/abe_revaz/)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=badge&logo=codewars&logoColor=red&color=0966c2)](https://www.codewars.com/users/omarovfrontend)
+</p>
 
 ### <p>A little more about me: </p>
  - `🤯 I like learning new technologies`
