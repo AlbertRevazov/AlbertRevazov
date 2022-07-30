@@ -1,4 +1,4 @@
-<img width="1000" height="350" alt="img" src="./img/11.jpg"/>
+<img width="1000" height="330" alt="img" src="./img/11.jpg"/>
 
 <img align="right" width="290" height="410" alt="GIF" src="https://media3.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e470xtz664v2w4cmj3uva2mdxoydcb6qw4z207qukgr&rid=giphy.gif&ct=g"/>
 
