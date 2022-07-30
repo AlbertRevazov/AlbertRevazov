@@ -1,4 +1,4 @@
-<img width="700" height="350" alt="img" src="./img/11.jpg"/>
+<img width="1000" height="350" alt="img" src="./img/11.jpg"/>
 
 ### I spend my free time on
 ![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
