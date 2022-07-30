@@ -2,6 +2,12 @@
 
 <img align="right" width="290" height="410" alt="GIF" src="https://media3.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e470xtz664v2w4cmj3uva2mdxoydcb6qw4z207qukgr&rid=giphy.gif&ct=g"/>
 
+### <p>A little more about me: </p>
+ - `🤯 I like learning new technologies`
+ - `🤝 I like to work in a team.`
+ - `⚽ I love football, and videogames 🎮`
+
+
 ### I spend my free time on
 ![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
 
