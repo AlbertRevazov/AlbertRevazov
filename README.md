@@ -23,6 +23,7 @@
 
 
 ### Languages and Tools:
+### <div>
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
 <!-- ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -45,3 +46,4 @@
 <!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+</div>
