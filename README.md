@@ -12,8 +12,6 @@
 ![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
 
 ### and learn Typescript
-![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-
 <img width="350" alt="GIF" src="https://media2.giphy.com/media/L0aWDywDu1ziw/giphy.gif?cid=ecf05e47wnmt6lqd3dxm6tocvoz3umy3qp04qpnd4azzy0tm&rid=giphy.gif&ct=g"/>
 
 <hr>
