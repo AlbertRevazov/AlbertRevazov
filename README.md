@@ -1,5 +1,7 @@
 <img width="1000" height="350" alt="img" src="./img/11.jpg"/>
 
+<img align="right" width="350" alt="GIF" src="https://external-preview.redd.it/8ecjJ8-OSaPZd6u9Neq0cJVJvAYCNma5Fko4sLsELPQ.gif?format=mp4&s=521074a6617b071a578b3f3c491883b1e599569d"/>
+
 ### I spend my free time on
 ![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
 
