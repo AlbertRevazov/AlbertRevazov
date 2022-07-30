@@ -1,3 +1,5 @@
+<img width="350" alt="GIF" src="./img/11.jpg"/>
+
 ### I spend my free time on
 ![Codewars](https://www.codewars.com/users/AlbertRevazov/badges/large)
 
