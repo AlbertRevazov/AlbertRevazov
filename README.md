@@ -1,4 +1,4 @@
-<img align="center" width="100%" height='250' alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0b7da075987709.5c5c3c5e00725.gif"/>
+<!-- <img align="center" width="100%" height='250' alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0b7da075987709.5c5c3c5e00725.gif"/> -->
 
 # 👋 Hi, my name is Albert!
 
